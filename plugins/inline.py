@@ -58,7 +58,7 @@ async def answer(bot, query):
 
 
 def get_reply_markup(username):
-    return InlineKeyboardMarkup(buttons)
+    return InlineKeyboardMarkup
 
 def get_size(size):
     """Get size in readable format"""
